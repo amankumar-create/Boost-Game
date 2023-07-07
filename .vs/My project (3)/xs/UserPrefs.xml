@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{27AB3609-15DB-52E3-4D4E-5A489B4C4689}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Obstacle.cs">
+    <Files>
+      <File FileName="Assets/Scripts/CollisionHandler.cs" Line="28" Column="29" />
+      <File FileName="Assets/Scripts/Movement.cs" />
+      <File FileName="Assets/Scripts/CameraMovement.cs" Line="15" Column="18" />
+      <File FileName="Assets/Scripts/Oscillator.cs" Line="27" Column="1" />
+      <File FileName="Assets/Obstacle.cs" Line="14" Column="14" />
+      <File FileName="Assets/Scripts/QuitApplication.cs" Line="8" Column="18" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="228ba177-4fcb-4e04-a84d-4752be1f05cd" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
